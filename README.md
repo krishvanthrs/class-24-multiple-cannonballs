@@ -1,1 +1,2 @@
-# class-24-multiple-cannonballs
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
